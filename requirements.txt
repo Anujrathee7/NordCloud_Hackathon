@@ -5,3 +5,5 @@ spacy
 sentence-transformers
 numpy
 torch
+PyPDF2
+
