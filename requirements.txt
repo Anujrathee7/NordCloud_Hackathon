@@ -1,0 +1,7 @@
+Flask
+PyMuPDF
+python-docx
+spacy
+sentence-transformers
+numpy
+torch
